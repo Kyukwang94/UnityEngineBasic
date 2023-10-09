@@ -1,0 +1,14 @@
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\bin\Debug\net6.0\CsharpBasic.exe
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\bin\Debug\net6.0\CsharpBasic.deps.json
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\bin\Debug\net6.0\CsharpBasic.runtimeconfig.json
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\bin\Debug\net6.0\CsharpBasic.dll
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\bin\Debug\net6.0\CsharpBasic.pdb
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\CsharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\CsharpBasic.AssemblyInfoInputs.cache
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\CsharpBasic.AssemblyInfo.cs
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\CsharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\CsharpBasic.dll
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\refint\CsharpBasic.dll
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\CsharpBasic.pdb
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\CsharpBasic.genruntimeconfig.cache
+C:\Users\dlrbr\OneDrive\문서\Github\UnityEngineBasic\CsharpBasic\obj\Debug\net6.0\ref\CsharpBasic.dll
